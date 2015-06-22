@@ -1,0 +1,25 @@
+#grid 
+{
+    height:500px;
+    width: 500px;
+    margin: 5% auto;
+}
+
+.square
+{
+    display: inline-block;
+    background: #EEE;
+}
+
+.hover
+{
+    background: black;
+}
+
+.button{
+    padding: 5px 10px;
+    background-color: #F0F0F0;
+    margin-top: 10px;
+    text-decoration:none;
+    color: #666;
+}
