@@ -12,7 +12,7 @@ function makeGrid(nSquares)
     $('#grid').empty();
      for(var i = 0; i < nSquares; i++)
     {
-        $('#grid').append('<div class="row">');
+        // $('#grid').append('<div class="row">');
         for(var j = 0; j < nSquares; j++)
             $('#grid').append('<div class="square"></div>');
         $('#grid').append('</div>');

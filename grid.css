@@ -1,8 +1,19 @@
+#container
+{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.para{
+    margin:10px 0 10px 0;
+}
+
 #grid 
 {
+    margin-top: 10px;
     height:500px;
     width: 500px;
-    margin: 5% auto;
+    line-height:0px;
 }
 
 .square
@@ -19,7 +30,6 @@
 .button{
     padding: 5px 10px;
     background-color: #F0F0F0;
-    margin-top: 10px;
     text-decoration:none;
-    color: #666;
+    color: #000;
 }
